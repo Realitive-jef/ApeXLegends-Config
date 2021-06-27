@@ -1,0 +1,3 @@
+//Launch Options
+// +exec autoexec.cfg -dev -preload -forcenovsync -high +fps_max 180 -novid -fullscreen +gfx_nvnUseLowLatency 1 +cl_showfps 4
+// Remove +gfx_nvnUseLowLatency 1 if on AMD GPU.
