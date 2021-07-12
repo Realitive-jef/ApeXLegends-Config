@@ -12,8 +12,17 @@
 - -high：CPU使用率を高にする。
 - +fps_max 0：0でフレームレートの上限をなくす。
 - +cl_showfps 4：ゲームのフレームレートを表示する
-## autoexec.cfg
-- C:\Users\ユーザー名\Saved Games\Respawn\Apex\local\settings.cfg
+## Config Files
 
-## videoconfig.txt
-- C:\Users\ユーザー名\保存したゲーム\Respawn\Apex\local
+|Directory|Variable|
+|:--|--:|
+|%USERPROFILE%\SavedGames\Respawn\Apex\profile\profile.cfg|cl_fovScale|
+|%USERPROFILE%\ avedGames\Respawn\Apex\local\settings.cfg|mouse_sensitivity mouse_zoomed_sensitivity_scalar_0|
+|%USERPROFILE%\SavedGames\Respawn\Apex\local\videoconfig.txt|setting.defaultres setting.defaultresheight
+|
+
+## 120 FOV
+paste this into autoexec- <br>
+`cl_fovScale "1.7"`
+
+[CALCULATOR](https://jscalc.io/embed/Q1gf45VCY4tmm2dq?utm_medium=referral&utm_campaign=JSCalc%20Blog&utm_source=JSCalc%20blog)
