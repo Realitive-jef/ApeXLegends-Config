@@ -18,8 +18,7 @@
 |:--|--:|
 |%USERPROFILE%\SavedGames\Respawn\Apex\profile\profile.cfg|cl_fovScale|
 |%USERPROFILE%\ avedGames\Respawn\Apex\local\settings.cfg|mouse_sensitivity mouse_zoomed_sensitivity_scalar_0|
-|%USERPROFILE%\SavedGames\Respawn\Apex\local\videoconfig.txt|setting.defaultres setting.defaultresheight
-|
+|%USERPROFILE%\SavedGames\Respawn\Apex\local\videoconfig.txt|setting.defaultres setting.defaultresheight|
 
 ## 120 FOV
 paste this into autoexec- <br>
